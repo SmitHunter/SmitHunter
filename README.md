@@ -1,44 +1,36 @@
 # Hey, I'm Hunter 👋
-<!-- GitHub Profile README Trigger -->
 
-**IT Systems Administrator | Melbourne, AU**  
+**IT Systems Administrator & Automation Specialist | Melbourne, AU**  
 Currently supporting 30+ retail locations as part of a high-impact IT team at **Daniel's Donuts**.
 
-I specialize in AI-assisted development, systems automation, and bridging the gap between complex technology and non-technical teams.
+I specialise in AI-assisted development, systems automation, and building workflows that bridge the gap between complex technology and non-technical teams to optimise business operations.
 
 ---
 
 ### 🚀 What I'm working on
 
-- **[Sidestream](https://play.google.com/store/apps/details?id=com.sidestream.app)**  
-  *A personal finance app built and shipped to the Google Play Store.*
-  - **Key Features:**
-    - Architected with **Flutter** & **Supabase** for high-performance data sync.
-    - Developed using **AI-first workflows** (Claude Code, Gemini, Codex).
-    - User-centric UX/UI for streamlined financial tracking.
-  - [**📲 Get it on Google Play**](https://play.google.com/store/apps/details?id=com.sidestream.app)
+- **Daniel's Donuts Operations & Automation**  
+  *A unified ordering hub and automated workflow platform for a 30-store retail network.*
+  - Built an online ordering platform integrated with the Redcat POS API to centralise logistics and loyalty.
+  - Automating manual tasks and reducing operational friction using Power Automate, Zapier, and Make.com to seamlessly connect disparate business systems.
 
-- **Daniel's Donuts Online Ordering**  
-  *Full-stack online ordering platform integrated with Redcat POS API.*
-  - Multi-store logistics, loyalty integration, and a complete UI overhaul.
-
-- **Internal API Tools**  
-  *Custom middleware to simplify POS data for the wider business team.*
+- **[Sidestream](https://play.google.com/store/apps/details?id=com.sidestream.finance&hl=en)**  
+  *A technical experiment in AI-assisted development, shipped to the Google Play Store.*
+  - Architected and built a personal finance app using **Flutter** & **Supabase** for high-performance data sync.
+  - Emphasised an "AI-first" methodology, leveraging Claude Code, Gemini, and Codex to drastically increase development velocity from concept to deployment.
 
 ---
 
-### 🧠 Current Learning
+### 🧠 Current Focus
 
-I'm currently deepening my expertise in data-driven decision making:
-- 📊 **Power BI** — Building advanced dashboards for retail performance tracking.
-- 🗄️ **SQL** — Optimizing complex queries and database schema design.
+I am currently specialising in **AI workflow automation** and **LLM-integrated systems** to solve real-world operational problems, streamlining workflows and organising data effectively.
 
 ---
 
 ### 🛠️ Tech Stack
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=Dart&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=Supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=PostgreSQL&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=TypeScript&logoColor=white)  
-![Power Automate](https://img.shields.io/badge/Power_Automate-2560E0?style=flat-square&logo=Power-Automate&logoColor=white) ![M365](https://img.shields.io/badge/Microsoft_365-0078D4?style=flat-square&logo=Microsoft-365&logoColor=white) ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=Microsoft&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-2560E0?style=flat-square&logo=Power-Automate&logoColor=white) ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white) ![Make.com](https://img.shields.io/badge/Make.com-000000?style=flat-square&logo=make&logoColor=white) ![M365](https://img.shields.io/badge/Microsoft_365-0078D4?style=flat-square&logo=Microsoft-365&logoColor=white)
 
 ---
 
