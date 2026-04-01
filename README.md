@@ -14,8 +14,8 @@ I specialise in AI-assisted development, systems automation, and building workfl
   - Built an online ordering platform integrated with the Redcat POS API to centralise logistics and loyalty.
   - Automating manual tasks and reducing operational friction using Power Automate, Zapier, and Make.com to seamlessly connect disparate business systems.
 
-- **[Sidestream](https://play.google.com/store/apps/details?id=com.sidestream.finance&hl=en)**  
-  *A technical experiment in AI-assisted development, shipped to the Google Play Store.*
+- **Sidestream**  
+  *A technical experiment in AI-assisted development.*
   - Architected and built a personal finance app using **Flutter** & **Supabase** for high-performance data sync.
   - Emphasised an "AI-first" methodology, leveraging Claude Code, Gemini, and Codex to drastically increase development velocity from concept to deployment.
 
