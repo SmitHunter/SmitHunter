@@ -1,45 +1,54 @@
-# Hey, I'm Hunter 👋
-**Builder | AI Agents, Automation, API Integration | Melbourne, AU**
+# Hunter Smith
 
-ICT Systems Administrator at **Daniel's Donuts** by day, building AI-powered tools and automation pipelines on the side. Comfortable across the stack from API integration to UI, with a clear bias toward shipping over theorising.
+**AI Engineer | Melbourne, Australia**
 
----
-
-### 🚀 What I'm building
-
-- **[Daily Ops Briefing](https://github.com/SmitHunter/Daily-Ops-Briefing)**  
-  *Two-agent Claude system that reviews multi-site retail performance and writes a daily ops briefing for leadership.*
-  - Analyst agent uses tool calling against a SQLite database to identify anomalies and trends.
-  - Writer agent turns the structured findings into a 60-second briefing.
-  - Deployed on Render with a Make.com automation pipeline running daily. [Live demo →](https://daily-ops-briefing.onrender.com)
-
-- **[Sidestream](https://www.sidestream.app/)**  
-  *Personal finance app live on Google Play.*
-  - Built end-to-end using AI coding tools as my primary development partner.
-  - PostgreSQL schema (Supabase) handling user transactions, budgets, and authentication.
-
-- **Daniel's Donuts Custom POS Tooling**  
-  *Internal tools used across 30+ stores.*
-  - Custom Redcat POS API utilities: stamp card editor, coupon manager, gift card batch generator, report tooling.
-  - Custom web ordering platform running on the Redcat API.
-  - Power Automate flows for incident reporting and operational automation.
+I build AI systems that solve real operational problems — LLM-powered agents, retrieval pipelines, and automation that ships to production rather than sitting in a notebook.
 
 ---
 
-### 🛠️ Stack
+### Focus areas
 
-![Claude](https://img.shields.io/badge/Anthropic_Claude-D97757?style=flat-square&logo=anthropic&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=PostgreSQL&logoColor=white)  
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=Dart&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=Supabase&logoColor=white)  
-![Make.com](https://img.shields.io/badge/Make.com-6D00CC?style=flat-square&logo=make&logoColor=white) ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white) ![Power Automate](https://img.shields.io/badge/Power_Automate-2560E0?style=flat-square&logo=Power-Automate&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+- **LLM applications** — building with Claude, GPT, and open-weight models
+- **Agents & tool use** — multi-agent orchestration, function calling, structured outputs
+- **RAG** — retrieval-augmented generation for domain-specific knowledge
+- **Evals** — measuring what matters before and after deployment
+- **Automation** — connecting AI to existing systems and workflows
 
 ---
 
-### 📫 Connect with me
-<p align="left">
-  <a href="https://www.linkedin.com/in/hunter-sm/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:huntersmith458@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+### Tech stack
+
+**AI/ML:** Python, Claude API, OpenAI API, LangChain, vector databases  
+**Backend:** Flask, FastAPI, Cloudflare Workers, PostgreSQL, SQLite  
+**Infrastructure:** Render, Supabase, Make.com, Power Automate  
+**Other:** Git, REST APIs, CustomTkinter (for internal tooling)
+
+---
+
+### Featured projects
+
+| Project | Description |
+|---------|-------------|
+| [Daily-Ops-Briefing](https://github.com/SmitHunter/Daily-Ops-Briefing) | Two-agent Claude system that analyses multi-site retail data and writes daily ops briefings for leadership |
+| [pos-availability-toggle](https://github.com/SmitHunter/pos-availability-toggle) | Cloudflare Worker for toggling product availability across a chain of stores on Redcat POS |
+| [redcat-coupon-assigner](https://github.com/SmitHunter/redcat-coupon-assigner) | Desktop tool for bulk-assigning loyalty coupons via the Redcat API |
+| [redcat-gift-card-generator](https://github.com/SmitHunter/redcat-gift-card-generator) | Generates printable gift cards with Code128 barcodes from spreadsheet data |
+| [redcat-stamp-card-manager](https://github.com/SmitHunter/redcat-stamp-card-manager) | GUI app for managing digital stamp cards with automatic coupon assignment |
+
+---
+
+### Upcoming
+
+<!-- TODO: Add links once these repos are public -->
+
+- **RAG system with evals** — retrieval pipeline with systematic evaluation framework
+- **LLM eval toolkit** — lightweight library for testing LLM outputs against ground truth
+- **MCP-based agent** — agent built on the Model Context Protocol for tool integration
+
+---
+
+### Connect
+
+<!-- TODO: Update with your preferred contact links -->
+- [LinkedIn](https://www.linkedin.com/in/hunter-sm/) <!-- Verify this is current -->
+- Email: <!-- Add email if you want it public, or remove this line -->
