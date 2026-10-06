@@ -29,21 +29,14 @@ I build AI systems that solve real operational problems — LLM-powered agents, 
 
 | Project | Description |
 |---------|-------------|
+| [rag-forge](https://github.com/SmitHunter/rag-forge) | Offline RAG eval forge: BM25, dense, hybrid, and rerank with measured baselines |
+| [llm-regress](https://github.com/SmitHunter/llm-regress) | YAML-driven regression suites for LLM apps (assertions, cache, CI exit codes) |
+| [trace-agent](https://github.com/SmitHunter/trace-agent) | MCP weather agent with a Next.js trace UI (real stdio `tools/list` and `tools/call`) |
 | [Daily-Ops-Briefing](https://github.com/SmitHunter/Daily-Ops-Briefing) | Two-agent Claude system that analyses multi-site retail data and writes daily ops briefings for leadership |
 | [pos-availability-toggle](https://github.com/SmitHunter/pos-availability-toggle) | Cloudflare Worker for toggling product availability across a chain of stores on Redcat POS |
 | [redcat-coupon-assigner](https://github.com/SmitHunter/redcat-coupon-assigner) | Desktop tool for bulk-assigning loyalty coupons via the Redcat API |
 | [redcat-gift-card-generator](https://github.com/SmitHunter/redcat-gift-card-generator) | Generates printable gift cards with Code128 barcodes from spreadsheet data |
 | [redcat-stamp-card-manager](https://github.com/SmitHunter/redcat-stamp-card-manager) | GUI app for managing digital stamp cards with automatic coupon assignment |
-
----
-
-### Upcoming
-
-<!-- TODO: Add links once these repos are public -->
-
-- **RAG system with evals** — retrieval pipeline with systematic evaluation framework
-- **LLM eval toolkit** — lightweight library for testing LLM outputs against ground truth
-- **MCP-based agent** — agent built on the Model Context Protocol for tool integration
 
 ---
 
