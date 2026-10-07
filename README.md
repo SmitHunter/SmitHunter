@@ -19,7 +19,7 @@ I build AI systems that solve real operational problems — LLM-powered agents, 
 ### Tech stack
 
 **AI/ML:** Python, Claude API, OpenAI API, LangChain, vector databases  
-**Backend:** Flask, FastAPI, Cloudflare Workers, PostgreSQL, SQLite  
+**Backend:** Flask, FastAPI, PostgreSQL, SQLite  
 **Infrastructure:** Render, Supabase, Make.com, Power Automate  
 **Other:** Git, REST APIs, CustomTkinter (for internal tooling)
 
@@ -33,7 +33,6 @@ I build AI systems that solve real operational problems — LLM-powered agents, 
 | [llm-regress](https://github.com/SmitHunter/llm-regress) | YAML-driven regression suites for LLM apps (assertions, cache, CI exit codes) |
 | [trace-agent](https://github.com/SmitHunter/trace-agent) | MCP weather agent with a Next.js trace UI (real stdio `tools/list` and `tools/call`) |
 | [Daily-Ops-Briefing](https://github.com/SmitHunter/Daily-Ops-Briefing) | Two-agent Claude system that analyses multi-site retail data and writes daily ops briefings for leadership |
-| [pos-availability-toggle](https://github.com/SmitHunter/pos-availability-toggle) | Cloudflare Worker for toggling product availability across a chain of stores on Redcat POS |
 
 ---
 
