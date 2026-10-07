@@ -1,6 +1,6 @@
 # Hunter Smith
 
-**AI Engineer | Melbourne, Australia**
+**AI Engineer at LKG | Melbourne, Australia**
 
 I build AI systems that solve real operational problems — LLM-powered agents, retrieval pipelines, and automation that ships to production rather than sitting in a notebook.
 
