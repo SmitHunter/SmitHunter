@@ -29,6 +29,20 @@
       <img alt="HookLine seed packet: AI turns long videos into short clips. Python, Whisper, Claude." src="readme/packet-hookline-day.svg" width="31%">
     </picture>
   </a>
+  <a href="https://github.com/SmitHunter/adscout">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="readme/packet-adscout-night.svg">
+      <source media="(prefers-color-scheme: light)" srcset="readme/packet-adscout-day.svg">
+      <img alt="adscout seed packet: Spots proven winning products from Meta ads. Python, React, Claude." src="readme/packet-adscout-day.svg" width="31%">
+    </picture>
+  </a>
+  <a href="https://github.com/SmitHunter/gig-radar">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="readme/packet-gig-radar-night.svg">
+      <source media="(prefers-color-scheme: light)" srcset="readme/packet-gig-radar-day.svg">
+      <img alt="gig-radar seed packet: Self-hosted gig alert bot: new shows + presale reminders to Discord,…. Python." src="readme/packet-gig-radar-day.svg" width="31%">
+    </picture>
+  </a>
 </p>
 <!-- seed-packets:end -->
 
