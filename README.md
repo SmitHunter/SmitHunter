@@ -18,7 +18,7 @@
   </picture>
 </p>
 
-<p align="center"><sub>My GitHub activity as a garden, redrawn daily by a renderer I built. Each plant is a day: bare soil · sprout · seedling · growing · harvest.</sub></p>
+<p align="center"><sub>My GitHub activity as a garden, redrawn daily by <a href="https://github.com/SmitHunter/profile-garden">a renderer I built</a>. Each plant is a day: bare soil · sprout · seedling · growing · harvest.</sub></p>
 
 <!-- seed-packets:start -->
 <p align="center">
