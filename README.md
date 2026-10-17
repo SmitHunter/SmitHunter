@@ -12,9 +12,9 @@ Previously in IT support and systems administration: helpdesk, Microsoft 365 and
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg">
-    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-south-season-animate.svg">
-    <img alt="3D contribution graph" src="profile-3d-contrib/profile-south-season-animate.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="profile-garden/garden-night.svg">
+    <source media="(prefers-color-scheme: light)" srcset="profile-garden/garden-day.svg">
+    <img alt="Hunter's contribution garden: veggie beds that grow as he commits" src="profile-garden/garden-day.svg" width="100%">
   </picture>
 </p>
 
