@@ -34,6 +34,7 @@
   </picture>
 </p>
 
+<!-- seed-packets:start -->
 <p align="center">
   <a href="https://github.com/SmitHunter/HookLine">
     <picture>
@@ -43,6 +44,7 @@
     </picture>
   </a>
 </p>
+<!-- seed-packets:end -->
 
 <p align="center">
   <picture>
