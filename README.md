@@ -40,7 +40,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="readme/packet-gig-radar-night.svg">
       <source media="(prefers-color-scheme: light)" srcset="readme/packet-gig-radar-day.svg">
-      <img alt="gig-radar seed packet: Self-hosted gig alert bot: new shows + presale reminders to Discord,…. Python." src="readme/packet-gig-radar-day.svg" width="31%">
+      <img alt="gig-radar seed packet: Gig + presale alerts to Discord, Telegram or email. Python, GitHub Actions." src="readme/packet-gig-radar-day.svg" width="31%">
     </picture>
   </a>
 </p>
