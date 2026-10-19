@@ -6,7 +6,7 @@
   </picture>
 </p>
 
-<p align="center">I'm an AI Engineer in Melbourne, building AI tools and automation for the group's businesses.</p>
+<p align="center">I'm an AI Engineer in Melbourne, building AI tools and automation for businesses.</p>
 
 <p align="center">Previously in IT support and systems administration: helpdesk, Microsoft 365 and Active Directory, POS systems, and hardware and network rollouts across retail and factory sites.</p>
 
