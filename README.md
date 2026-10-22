@@ -24,6 +24,7 @@
 <p align="center">
   <a href="https://github.com/SmitHunter/HookLine">
     <picture>
+      <source media="(max-width: 600px)" srcset="readme/spacer.svg">
       <source media="(prefers-color-scheme: dark)" srcset="readme/packet-hookline-night.svg">
       <source media="(prefers-color-scheme: light)" srcset="readme/packet-hookline-day.svg">
       <img alt="HookLine seed packet: AI turns long videos into short clips. Python, Whisper, Claude." src="readme/packet-hookline-day.svg" width="31%">
@@ -31,6 +32,7 @@
   </a>
   <a href="https://github.com/SmitHunter/adscout">
     <picture>
+      <source media="(max-width: 600px)" srcset="readme/spacer.svg">
       <source media="(prefers-color-scheme: dark)" srcset="readme/packet-adscout-night.svg">
       <source media="(prefers-color-scheme: light)" srcset="readme/packet-adscout-day.svg">
       <img alt="adscout seed packet: Spots proven winning products from Meta ads. Python, React, Claude." src="readme/packet-adscout-day.svg" width="31%">
@@ -38,9 +40,34 @@
   </a>
   <a href="https://github.com/SmitHunter/gig-radar">
     <picture>
+      <source media="(max-width: 600px)" srcset="readme/spacer.svg">
       <source media="(prefers-color-scheme: dark)" srcset="readme/packet-gig-radar-night.svg">
       <source media="(prefers-color-scheme: light)" srcset="readme/packet-gig-radar-day.svg">
       <img alt="gig-radar seed packet: Gig + presale alerts to Discord, Telegram or email. Python, GitHub Actions." src="readme/packet-gig-radar-day.svg" width="31%">
+    </picture>
+  </a>
+  <a href="https://github.com/SmitHunter/HookLine">
+    <picture>
+      <source media="(min-width: 601px)" srcset="readme/spacer.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="readme/packet-hookline-night.svg">
+      <source media="(prefers-color-scheme: light)" srcset="readme/packet-hookline-day.svg">
+      <img alt="HookLine seed packet: AI turns long videos into short clips. Python, Whisper, Claude." src="readme/packet-hookline-day.svg" width="48%">
+    </picture>
+  </a>
+  <a href="https://github.com/SmitHunter/adscout">
+    <picture>
+      <source media="(min-width: 601px)" srcset="readme/spacer.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="readme/packet-adscout-night.svg">
+      <source media="(prefers-color-scheme: light)" srcset="readme/packet-adscout-day.svg">
+      <img alt="adscout seed packet: Spots proven winning products from Meta ads. Python, React, Claude." src="readme/packet-adscout-day.svg" width="48%">
+    </picture>
+  </a>
+  <a href="https://github.com/SmitHunter/gig-radar">
+    <picture>
+      <source media="(min-width: 601px)" srcset="readme/spacer.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="readme/packet-gig-radar-night.svg">
+      <source media="(prefers-color-scheme: light)" srcset="readme/packet-gig-radar-day.svg">
+      <img alt="gig-radar seed packet: Gig + presale alerts to Discord, Telegram or email. Python, GitHub Actions." src="readme/packet-gig-radar-day.svg" width="48%">
     </picture>
   </a>
 </p>
