@@ -1,78 +1,13 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="readme/banner-night.svg">
-    <source media="(prefers-color-scheme: light)" srcset="readme/banner-day.svg">
-    <img alt="Hunter Smith: AI Engineer, Melbourne, Australia. AI tools, automation, business operations." src="readme/banner-day.svg" width="100%">
-  </picture>
-</p>
+### Hunter Smith
 
-<p align="center">I'm an AI Engineer in Melbourne, building AI tools and automation for businesses.</p>
+AI engineer in Melbourne. I build AI tools and automation for businesses.
 
-<p align="center">Previously in IT support and systems administration: helpdesk, Microsoft 365 and Active Directory, POS systems, and hardware and network rollouts across retail and factory sites.</p>
+**Projects**
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-garden/garden-night.svg">
-    <source media="(prefers-color-scheme: light)" srcset="profile-garden/garden-day.svg">
-    <img alt="Hunter's contribution garden: veggie beds that grow as he commits" src="profile-garden/garden-day.svg" width="100%">
-  </picture>
-</p>
+- [HookLine](https://github.com/SmitHunter/HookLine): turns a long video into 5 captioned vertical clips. Whisper, Claude, ffmpeg.
+- [adscout](https://github.com/SmitHunter/adscout): scores dropshipping products from public Meta Ad Library data.
+- [gig-radar](https://github.com/SmitHunter/gig-radar): gig and presale alerts to Discord, Telegram or email, run on GitHub Actions.
 
-<p align="center"><sub>My GitHub activity as a garden, redrawn daily by <a href="https://github.com/SmitHunter/profile-garden">a renderer I built</a>. Each plant is a day: bare soil · sprout · seedling · growing · harvest.</sub></p>
+Python · TypeScript · Claude API · MCP
 
-<!-- seed-packets:start -->
-<p align="center">
-  <a href="https://github.com/SmitHunter/HookLine">
-    <picture>
-      <source media="(max-width: 600px)" srcset="readme/spacer.svg">
-      <source media="(prefers-color-scheme: dark)" srcset="readme/packet-hookline-night.svg">
-      <source media="(prefers-color-scheme: light)" srcset="readme/packet-hookline-day.svg">
-      <img alt="HookLine seed packet: AI turns long videos into short clips. Python, Whisper, Claude." src="readme/packet-hookline-day.svg" width="31%">
-    </picture>
-  </a>
-  <a href="https://github.com/SmitHunter/adscout">
-    <picture>
-      <source media="(max-width: 600px)" srcset="readme/spacer.svg">
-      <source media="(prefers-color-scheme: dark)" srcset="readme/packet-adscout-night.svg">
-      <source media="(prefers-color-scheme: light)" srcset="readme/packet-adscout-day.svg">
-      <img alt="adscout seed packet: Spots proven winning products from Meta ads. Python, React, Claude." src="readme/packet-adscout-day.svg" width="31%">
-    </picture>
-  </a>
-  <a href="https://github.com/SmitHunter/gig-radar">
-    <picture>
-      <source media="(max-width: 600px)" srcset="readme/spacer.svg">
-      <source media="(prefers-color-scheme: dark)" srcset="readme/packet-gig-radar-night.svg">
-      <source media="(prefers-color-scheme: light)" srcset="readme/packet-gig-radar-day.svg">
-      <img alt="gig-radar seed packet: Gig + presale alerts to Discord, Telegram or email. Python, GitHub Actions." src="readme/packet-gig-radar-day.svg" width="31%">
-    </picture>
-  </a>
-  <a href="https://github.com/SmitHunter/HookLine">
-    <picture>
-      <source media="(min-width: 601px)" srcset="readme/spacer.svg">
-      <source media="(prefers-color-scheme: dark)" srcset="readme/packet-hookline-night.svg">
-      <source media="(prefers-color-scheme: light)" srcset="readme/packet-hookline-day.svg">
-      <img alt="HookLine seed packet: AI turns long videos into short clips. Python, Whisper, Claude." src="readme/packet-hookline-day.svg" width="48%">
-    </picture>
-  </a>
-  <a href="https://github.com/SmitHunter/adscout">
-    <picture>
-      <source media="(min-width: 601px)" srcset="readme/spacer.svg">
-      <source media="(prefers-color-scheme: dark)" srcset="readme/packet-adscout-night.svg">
-      <source media="(prefers-color-scheme: light)" srcset="readme/packet-adscout-day.svg">
-      <img alt="adscout seed packet: Spots proven winning products from Meta ads. Python, React, Claude." src="readme/packet-adscout-day.svg" width="48%">
-    </picture>
-  </a>
-  <a href="https://github.com/SmitHunter/gig-radar">
-    <picture>
-      <source media="(min-width: 601px)" srcset="readme/spacer.svg">
-      <source media="(prefers-color-scheme: dark)" srcset="readme/packet-gig-radar-night.svg">
-      <source media="(prefers-color-scheme: light)" srcset="readme/packet-gig-radar-day.svg">
-      <img alt="gig-radar seed packet: Gig + presale alerts to Discord, Telegram or email. Python, GitHub Actions." src="readme/packet-gig-radar-day.svg" width="48%">
-    </picture>
-  </a>
-</p>
-<!-- seed-packets:end -->
-
-<p align="center"><b>Stack:</b> Python · TypeScript · JavaScript · Claude API · MCP · Next.js · Astro · Flask · Godot · Cloudflare Workers · Supabase</p>
-
-<p align="center"><a href="https://www.linkedin.com/in/hunter-sm/">LinkedIn</a></p>
+[LinkedIn](https://www.linkedin.com/in/hunter-sm/)
